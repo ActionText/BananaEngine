@@ -1,76 +1,146 @@
-# Godot Engine
+<!--
+README ASSET / LINK LOCATIONS
+
+Banner:
+    assets/banner.png
+
+Editor screenshot:
+    assets/editor.png
+
+Additional images/icons:
+    assets/icons/
+
+Replace these placeholder URLs:
+    https://bananaengine.dev/
+    https://bananaengine.dev/docs
+    https://bananaengine.dev/download
+    https://bananaengine.dev/community
+    https://bananaengine.dev/lunana
+    https://bananaengine.dev/lunana/docs
+
+Replace or remove any sections that do not apply yet.
+-->
 
 <p align="center">
-  <a href="https://godotengine.org">
-    <img src="misc/logo/logo_outlined.svg" width="400" alt="Godot Engine logo">
-  </a>
+  <img src="assets/banner.png" alt="BananaEngine">
 </p>
 
-## 2D and 3D cross-platform game engine
+# BananaEngine
 
-**[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
-game engine to create 2D and 3D games from a unified interface.** It provides a
-comprehensive set of [common tools](https://godotengine.org/features), so that
-users can focus on making games without having to reinvent the wheel. Games can
-be exported with one click to a number of platforms, including the major desktop
-platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as
-Web-based platforms and [consoles](https://godotengine.org/consoles).
+## Cross-platform game engine powered by Lunana
+
+**[BananaEngine](https://bananaengine.github.io/)** is a feature-packed,
+cross-platform **game engine designed to create 2D and 3D games from a
+unified development environment.** Inspired by the workflow and design of
+tools such as Roblox Studio, BananaEngine provides a comprehensive set of
+tools for creating, developing, and testing games.
+
+BananaEngine is powered by **[Lunana](https://bananaengine.github.io/lunana)**,
+a custom fork of the [Luau](https://luau.org/) programming language, providing
+a scripting environment designed specifically to work alongside the engine.
+
+**[Website](https://bananaengine.github.io/)** ·
+**[Documentation](https://bananaengine.github.io/docs)** ·
+**[Downloads](https://bananaengine.github.io/download)** ·
+**[Community](https://bananaengine.github.io/community)**
 
 ## Free, open source and community-driven
 
-Godot is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
-No strings attached, no royalties, nothing. The users' games are theirs, down
-to the last line of engine code. Godot's development is fully independent and
-community-driven, empowering users to help shape their engine to match their
-expectations. It is supported by the [Godot Foundation](https://godot.foundation/)
-not-for-profit.
+BananaEngine is free and open source under the terms of the
+[MIT License](LICENSE).
 
-Before being open sourced in [February 2014](https://github.com/godotengine/godot/commit/0b806ee0fc9097fa7bda7ac0109191c9c5e0a1ac),
-Godot had been developed by [Juan Linietsky](https://github.com/reduz) and
-[Ariel Manzur](https://github.com/punto-) for several years as an in-house
-engine, used to publish several work-for-hire titles.
+The source code is available for anyone to inspect, modify, and contribute to.
+The development of BananaEngine is community-driven, allowing developers to
+help shape the engine and its future.
 
-![Screenshot of a 3D scene in the Godot Engine editor](https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg)
+## Lunana
+
+BananaEngine uses **Lunana**, a custom fork of the Luau programming language.
+
+Lunana provides BananaEngine with its scripting capabilities while allowing the
+language to evolve independently and introduce features specifically intended
+for BananaEngine.
+
+For more information about Lunana, visit the
+[Lunana website](https://bananaengine.github.io/lunana) or read the
+[Lunana documentation](https://bananaengine.github.io/lunana/docs).
 
 ## Getting the engine
 
 ### Binary downloads
 
-Official binaries for the Godot editor and the export templates can be found
-[on the Godot website](https://godotengine.org/download).
+Official binaries for the BananaEngine editor and runtime can be found on the
+[BananaEngine website](https://bananaengine.github.io/download).
+
+Downloads will be provided for supported platforms.
 
 ### Compiling from source
 
-[See the official docs](https://docs.godotengine.org/en/latest/engine_details/development/compiling)
-for compilation instructions for every supported platform.
+BananaEngine can also be compiled directly from source.
+
+[See the documentation](https://bananaengine.github.io/docs/building) for compilation
+instructions and information about supported platforms.
 
 ## Community and contributing
 
-Godot is not only an engine but an ever-growing community of users and engine
-developers. The main community channels are listed [on the homepage](https://godotengine.org/community).
+BananaEngine is not only an engine but an evolving community of developers,
+contributors, and creators.
 
-The best way to get in touch with the core engine developers is to join the
-[Godot Contributors Chat](https://chat.godotengine.org).
+The main community channels are listed on the
+[BananaEngine website](https://bananaengine.github.io/community).
 
-To get started contributing to the project, see the [contributing guide](CONTRIBUTING.md).
-This document also includes guidelines for reporting bugs.
+To get started contributing to the project, see the
+[contributing guide](CONTRIBUTING.md).
+
+This document also includes guidelines for reporting bugs and submitting
+changes to the project.
 
 ## Documentation and demos
 
-The official documentation is hosted on [Read the Docs](https://docs.godotengine.org).
-It is maintained by the Godot community in its own [GitHub repository](https://github.com/godotengine/godot-docs).
+The official BananaEngine documentation is hosted on the
+[BananaEngine website](https://bananaengine.github.io/docs).
 
-The [class reference](https://docs.godotengine.org/en/latest/classes/)
-is also accessible from the Godot editor.
+It contains information about the engine, editor, Lunana, APIs, and other
+development tools.
 
-We also maintain official demos in their own [GitHub repository](https://github.com/godotengine/godot-demo-projects)
-as well as a list of [awesome Godot community resources](https://github.com/godotengine/awesome-godot).
+Examples and demonstration projects will also be provided to help developers
+learn BananaEngine and explore its capabilities.
 
-There are also a number of other
-[learning resources](https://docs.godotengine.org/en/latest/community/tutorials.html)
-provided by the community, such as text and video tutorials, demos, etc.
-Consult the [community channels](https://godotengine.org/community)
-for more information.
+## Screenshots
 
-[![Code Triagers Badge](https://www.codetriage.com/godotengine/godot/badges/users.svg)](https://www.codetriage.com/godotengine/godot)
-[![Translate on Weblate](https://hosted.weblate.org/widgets/godot-engine/-/godot/svg-badge.svg)](https://hosted.weblate.org/engage/godot-engine/?utm_source=widget)
+<!--
+Place screenshots in:
+
+    assets/
+
+Example:
+
+    assets/editor.png
+    assets/scene.png
+    assets/scripting.png
+
+Add them below using:
+
+    ![Description](assets/editor.png)
+-->
+
+![BananaEngine Editor](assets/editor.png)
+
+More screenshots, videos, and examples can be found on the
+[BananaEngine website](https://bananaengine.github.io/).
+
+## Other resources
+
+Additional BananaEngine resources, guides, examples, and community projects
+will be available through the official website.
+
+* [Website](https://bananaengine.github.io/)
+* [Documentation](https://bananaengine..github.io/docs)
+* [Downloads](https://bananaengine.github.io/download)
+* [Community](https://bananaengine.github.io/community)
+* [Lunana](https://bananaengine.github.io/lunana)
+
+## License
+
+BananaEngine is distributed under the terms of the
+[MIT License](LICENSE).
