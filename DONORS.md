@@ -8,7 +8,7 @@ ecosystem.
 
 Information about how to support BananaEngine, as well as how donated funds are
 used, will be available on the
-[BananaEngine website](https://bananaengine.dev/donate).
+[BananaEngine website](https://bananaengine.github.io/donate).
 
 Every contribution helps support the continued development of BananaEngine,
 Lunana, the documentation, and the other projects surrounding the ecosystem.
