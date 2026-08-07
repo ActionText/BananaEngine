@@ -171,7 +171,7 @@ Testing is particularly important for changes to core engine systems, serializat
 ## Communicating with developers
 
 For significant changes, feature proposals, architectural discussions, or questions about implementation, use the official
-[BananaEngine community channels](https://bananaengine.dev/community).
+[BananaEngine community channels](https://bananaengine.github.io/community).
 
 When discussing a potential contribution, provide enough technical information for others to understand the problem and proposed solution.
 
